@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  ctf-server:
+    build: .
+    ports:
+      - "84:80"
+      - "2222:22"
+      - "8443:443"
+    container_name: ctf_challenge_4
+    restart: unless-stopped

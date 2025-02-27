@@ -1,0 +1,12 @@
+CTF Challenge 4: The Enigma Server
+Flag	Hint
+CTF{sql_injection}	Exploit a SQL injection vulnerability in the login page.
+CTF{hidden_directory}	Find a hidden directory using directory brute-forcing.
+CTF{file_upload}	Exploit a file upload vulnerability in the upload feature.
+CTF{base64_encoded}	Decode a base64-encoded string in the page source.
+CTF{weak_ssh_credentials}	Brute-force the SSH service to find weak credentials.
+CTF{weak_ssl_config}	Exploit a weak SSL/TLS configuration to intercept traffic.
+CTF{command_injection}	Exploit a command injection vulnerability in the admin panel.
+CTF{response_header}	Find a flag hidden in the response headers.
+CTF{ssti_vulnerability}	Exploit a server-side template injection (SSTI) vulnerability.
+CTF{jwt_token}	Decode a JWT token to find the flag.

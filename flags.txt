@@ -1,6 +1,6 @@
 CTF Challenge 4: The Enigma Server
 Flag	Hint
-CTF{sql_injection}	Exploit a SQL injection vulnerability in the login page.
+flag1.txt: CTF{sql_injection}	Exploit a SQL injection vulnerability in the login page.
 CTF{hidden_directory}	Find a hidden directory using directory brute-forcing.
 CTF{file_upload}	Exploit a file upload vulnerability in the upload feature.
 CTF{base64_encoded}	Decode a base64-encoded string in the page source.
